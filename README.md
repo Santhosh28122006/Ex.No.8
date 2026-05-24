@@ -71,44 +71,13 @@ Comparison table:
 
 ## The Comparison Report
 
+## The Comparison Report
+
 | Feature / Element | Original Image | Refined Prompt Formulation | Strategic Adjustments & Enhancements |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | **Core Subject** | Three obscured figures with glowing red eyes, sitting together. | "Three futuristic robots with glowing red optics..." | **Clarified:** The original image leaves the exact nature of the figures slightly ambiguous (could be cyborgs, monsters, or robots). The prompt explicitly defines them as "robots" to ensure the AI doesn't render organic monsters. |
 | **Activity** | The figures appear to be painting or crafting outdoors. | "...engaged in plein air painting... holding a paintbrush in front of a small wooden easel." | **Refined:** Uses the artistic term *"plein air"* to guarantee the AI understands the setting is outdoors and captures the correct natural light behavior. |
 | **Costumes & Textures** | Dark shaggy coat, blue robe, white suit, straw hats. | "Ragged black shaggy cloak... soft blue robe... white canvas jumpsuit under a straw sun umbrella." | **Enhanced:** Adds specific fabric descriptors ("canvas", "shaggy", "soft") to give the AI generator texture cues, preventing flat, flatly-colored surfaces. |
 | **Environment & Setting** | Grass, trees, bamboo, and a clear blue sky. | "...on a grassy hillside under the shade of a large tree and bamboo stalks... clear blue sky, lush vivid green foliage." | **Preserved:** Accurately maps the exact layout of the background flora to maintain the peaceful, hidden-spot atmosphere. |
 | **Artistic Style** | Painterly, somewhat compressed, Ghibli-esque/anime aesthetic. | "Painterly digital illustration... visible, loose impressionistic brushstrokes, blending whimsical sci-fi with a serene Studio Ghibli aesthetic..." | **Adjusted for Quality:** The original image has some digital compression artifacts. The prompt explicitly calls for *"loose impressionistic brushstrokes"* and *"8k resolution"* to mimic the beautiful hand-painted style while ensuring a crisp, high-quality output without digital blur. |
 | **Lighting & Mood** | Dappled sunlight, bright day, serene and calm mood. | "Bright, vibrant sunny day... cinematic lighting... peaceful rural life." | **Preserved & Enhanced:** Retains the tranquil contrast of high-tech entities living a low-tech, slow-paced life, while adding "cinematic lighting" to boost the dramatic interplay of light and shadow. |
-
----
-
-## CASE STUDY 2:
-
-Basic prompt:
-
-Fantasy watercolor illustration of a whimsical mountain village featuring buildings with massive pink mushroom-like roofs, nestled among high cliffs. Anthropomorphic animal travelers walk along a winding stone path leading into the town under a blue, cloudy sky.
-
-Refined prompt:
-
-An illustrative fantasy art piece in a vintage, hand-painted gouache and watercolor style, depicting a high-altitude, mountainous village of whimsical mushroom-cap towers. The composition is set within a rocky pass, with a dark, textured cliff face on the far left and rugged, pine-dotted mountains on the right. A winding, paved stone path leads from the grassy foreground hillside into the cluster of bizarre, tall structures. These buildings are cream-colored with pointed, conical spires, each topped by an oversized, flared cap in muted salmon-pink, giving them a distinct 'fungal-tech' appearance. Multiple small, spherical, segmented observation pods and hanging light structures are attached to the buildings and spires, connected by thin wires and gangways. A few small, anthropomorphic figures in layered robes and head coverings walk along the path and are visible on balconies. The sky is a bright, clear blue with soft, fluffy white clouds. The entire scene has a soft, diffused lighting quality and a distinct, aged paper texture, reminiscent of early 20th-century Russian fairy tale illustrations or vintage sci-fi fantasy concept art. The brushwork is visible but controlled.
-
-Basic image:
-<img width="1919" height="1199" alt="Screenshot 2026-02-05 233132" src="https://github.com/user-attachments/assets/f4063d3d-7575-49f1-b7b1-56144e82ea04" />
-
-
-Refined image:
-
-
-Comparison table:
-
-| Feature | New Variation | Original Image | 
-| --- | --- | --- |
-| **Artistic Medium & Texture** | Rich, textured gouache and watercolor blend. Heavy presence of visible ink outlines and a prominent **aged paper texture** with specks and grain. | Cleaner, smoother gouache style with flat color fills. Sharper digital lines, less paper texture, and higher overall image contrast. |
-| **Architectural Style** | **"Fungal-Tech" / Whimsical Ghibli-esque**: Organic, asymmetrical towers with flared, wide salmon-pink caps. Complicated clusters of structures stacked on top of one another. | **Alpine / Folklore**: Symmetrical, smooth plaster towers topped with tall, narrow, cone-shaped spires resembling pointed orange mushrooms with dark spots. |
-| **Mechanical Elements** | **High complexity**: Packed with spherical observation pods, hanging lanterns, interconnected wires, wooden scaffolding, and suspension gangways. | **None**: The sci-fi/technological pods and wiring are completely absent, replaced by standard stone steps and simple cottage doors. |
-| **Color Palette** | Desaturated, muted tones. Soft salmon-pink, cream, dusty olives, and a hazy, diffused sky blue. | Vibrant and saturated. Bright orange-tan roofs, vivid grass green, deep black-blue shadows, and a crisp, clear alpine sky. |
-| **Landscape & Scale** | Enclosed, chaotic rocky pass. Dramatic, close-up dark cliff on the left; buildings feel organically crammed into the terrain. | Open, sweeping mountain valley. Clear view of sharp, snow-capped peaks in the background; the mountain pass feels wider and more structured. |
-| **Inhabitants & Life** | **Populated**: Multiple distinct anthropomorphic creatures in heavy robes/hoods walking the path, carrying goods, and standing on balconies. | **Unpopulated**: No figures are visible, giving the village a peaceful, abandoned, or sleepy atmosphere. |
-| **The Path** | A winding, hand-laid stone tile walkway cutting smoothly through a wildflower-dotted meadow. | A rugged, fragmented flagstone/rock trail weaving steeply up a grassy hill. |
-
----
